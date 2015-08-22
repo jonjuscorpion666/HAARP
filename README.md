@@ -1,8 +1,13 @@
+
+##Introduction
+
 ``` `HAARP (High Frequency Active Auroral Research Program)` is a little-known, yet critically important U.S. military defense program .
 The secret electromagnetic warfare capabilities of `HAARP` are designed to forward the US military’s 
 stated goal of achieving full-spectrum dominance by the year 2020. ```
 
 Here in HAARP repo , i am trying to introduce category theory and prove functional design pattern.
+
+## Workshop
 
 * The exercises can be found in `src/main/scala/haarp/<tobefilled>.
 
